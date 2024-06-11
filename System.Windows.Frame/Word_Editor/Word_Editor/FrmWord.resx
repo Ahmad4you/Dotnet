@@ -1,0 +1,72 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richBox.Text" xml:space="preserve">
+    <value>Durch Fairtrade erhalten Näherinnen und Näher bessere Arbeitsbedingungen für ihre mühevolle Handarbeit. Zudem erfordern die Fairtrade Standards, dass die Arbeitsbedingungen und Löhne kontinuierlich verbessert werden.
+Fairtrade-Standards verbieten die Diskriminierung von Frauen und schreiben vor, dass die Arbeitgeber darauf achten müssen, dass die Arbeitsbedingungen in Fabriken beziehungsweise Nähzentren speziell auch für die Bedürfnisse von Frauen zugeschnitten sind. Zudem ist ausbeuterische Kinderarbeit verboten.
+
+Talon Sports fertigt unter ihrer Eigenmarke Fußbälle mit Fairtrade-Siegel.
+Talon Sport bietet bessere Arbeitsbedingungen. Diskriminierungen wie Zwangs- und Kinderarbeit sind verboten. Die Arbeiterinnen und Arbeiter erhalten wenigstens den gesetzlichen Mindestlohn. Zusätzlich zahlen die Händler eine Fair-Trade-Prämie, welche Gemeinschaftsprojekten zugutekommt. Mit dem Geld wurde zum Beispiel eine Krippe für die Kinder von Näherinnen eröffnet. Die Frauen konnten sich außerdem durch kostenlose Computerkurse fortbilden. 
+Die Arbeiterinnen und Arbeiter haben regelmäßige Arbeitszeiten und werden medizinisch betreut. Sie bekommen Schutzkleidung, und in den Betrieben wird auf Arbeits- und Feuerschutz geachtet.
+
+
+
+</value>
+  </data>
+</root>

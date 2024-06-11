@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\068 REPLACE STRING\068 REPLACE STRING\bin\Debug\068 REPLACE STRING.exe.config
+C:\Users\tss3\source\repos\068 REPLACE STRING\068 REPLACE STRING\bin\Debug\068 REPLACE STRING.exe
+C:\Users\tss3\source\repos\068 REPLACE STRING\068 REPLACE STRING\bin\Debug\068 REPLACE STRING.pdb
+C:\Users\tss3\source\repos\068 REPLACE STRING\068 REPLACE STRING\obj\Debug\068 REPLACE STRING.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\068 REPLACE STRING\068 REPLACE STRING\obj\Debug\068 REPLACE STRING.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\068 REPLACE STRING\068 REPLACE STRING\obj\Debug\068 REPLACE STRING.exe
+C:\Users\tss3\source\repos\068 REPLACE STRING\068 REPLACE STRING\obj\Debug\068 REPLACE STRING.pdb

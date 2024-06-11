@@ -1,0 +1,20 @@
+C:\Users\tss3\source\repos\System.Windows.Frame\089 LOCATION OR POSITION\089 LOCATION OR POSITION\bin\Debug\089 LOCATION OR POSITION.exe.config
+C:\Users\tss3\source\repos\System.Windows.Frame\089 LOCATION OR POSITION\089 LOCATION OR POSITION\bin\Debug\089 LOCATION OR POSITION.exe
+C:\Users\tss3\source\repos\System.Windows.Frame\089 LOCATION OR POSITION\089 LOCATION OR POSITION\bin\Debug\089 LOCATION OR POSITION.pdb
+C:\Users\tss3\source\repos\System.Windows.Frame\089 LOCATION OR POSITION\089 LOCATION OR POSITION\obj\Debug\088 LOCATION OR POSITION.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\System.Windows.Frame\089 LOCATION OR POSITION\089 LOCATION OR POSITION\obj\Debug\_088_LOCATION_OR_POSITION.Form1.resources
+C:\Users\tss3\source\repos\System.Windows.Frame\089 LOCATION OR POSITION\089 LOCATION OR POSITION\obj\Debug\_089_LOCATION_OR_POSITION.Properties.Resources.resources
+C:\Users\tss3\source\repos\System.Windows.Frame\089 LOCATION OR POSITION\089 LOCATION OR POSITION\obj\Debug\088 LOCATION OR POSITION.csproj.GenerateResource.cache
+C:\Users\tss3\source\repos\System.Windows.Frame\089 LOCATION OR POSITION\089 LOCATION OR POSITION\obj\Debug\088 LOCATION OR POSITION.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\System.Windows.Frame\089 LOCATION OR POSITION\089 LOCATION OR POSITION\obj\Debug\089 LOCATION OR POSITION.exe
+C:\Users\tss3\source\repos\System.Windows.Frame\089 LOCATION OR POSITION\089 LOCATION OR POSITION\obj\Debug\089 LOCATION OR POSITION.pdb
+C:\Users\tss3\source\repos\System.Windows.Frame\088 LOCATION OR POSITION\089 LOCATION OR POSITION\bin\Debug\089 LOCATION OR POSITION.exe.config
+C:\Users\tss3\source\repos\System.Windows.Frame\088 LOCATION OR POSITION\089 LOCATION OR POSITION\bin\Debug\089 LOCATION OR POSITION.exe
+C:\Users\tss3\source\repos\System.Windows.Frame\088 LOCATION OR POSITION\089 LOCATION OR POSITION\bin\Debug\089 LOCATION OR POSITION.pdb
+C:\Users\tss3\source\repos\System.Windows.Frame\088 LOCATION OR POSITION\089 LOCATION OR POSITION\obj\Debug\088 LOCATION OR POSITION.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\System.Windows.Frame\088 LOCATION OR POSITION\089 LOCATION OR POSITION\obj\Debug\_088_LOCATION_OR_POSITION.Form1.resources
+C:\Users\tss3\source\repos\System.Windows.Frame\088 LOCATION OR POSITION\089 LOCATION OR POSITION\obj\Debug\_089_LOCATION_OR_POSITION.Properties.Resources.resources
+C:\Users\tss3\source\repos\System.Windows.Frame\088 LOCATION OR POSITION\089 LOCATION OR POSITION\obj\Debug\088 LOCATION OR POSITION.csproj.GenerateResource.cache
+C:\Users\tss3\source\repos\System.Windows.Frame\088 LOCATION OR POSITION\089 LOCATION OR POSITION\obj\Debug\088 LOCATION OR POSITION.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\System.Windows.Frame\088 LOCATION OR POSITION\089 LOCATION OR POSITION\obj\Debug\089 LOCATION OR POSITION.exe
+C:\Users\tss3\source\repos\System.Windows.Frame\088 LOCATION OR POSITION\089 LOCATION OR POSITION\obj\Debug\089 LOCATION OR POSITION.pdb

@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\064 STRING DOT FORMAT\064 STRING DOT FORMAT\bin\Debug\064 STRING DOT FORMAT.exe.config
+C:\Users\tss3\source\repos\064 STRING DOT FORMAT\064 STRING DOT FORMAT\bin\Debug\064 STRING DOT FORMAT.exe
+C:\Users\tss3\source\repos\064 STRING DOT FORMAT\064 STRING DOT FORMAT\bin\Debug\064 STRING DOT FORMAT.pdb
+C:\Users\tss3\source\repos\064 STRING DOT FORMAT\064 STRING DOT FORMAT\obj\Debug\064 STRING DOT FORMAT.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\064 STRING DOT FORMAT\064 STRING DOT FORMAT\obj\Debug\064 STRING DOT FORMAT.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\064 STRING DOT FORMAT\064 STRING DOT FORMAT\obj\Debug\064 STRING DOT FORMAT.exe
+C:\Users\tss3\source\repos\064 STRING DOT FORMAT\064 STRING DOT FORMAT\obj\Debug\064 STRING DOT FORMAT.pdb

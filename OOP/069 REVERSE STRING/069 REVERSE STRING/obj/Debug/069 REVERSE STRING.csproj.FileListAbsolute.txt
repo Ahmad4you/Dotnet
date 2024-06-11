@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\069 REVERSE STRING\069 REVERSE STRING\bin\Debug\069 REVERSE STRING.exe.config
+C:\Users\tss3\source\repos\069 REVERSE STRING\069 REVERSE STRING\bin\Debug\069 REVERSE STRING.exe
+C:\Users\tss3\source\repos\069 REVERSE STRING\069 REVERSE STRING\bin\Debug\069 REVERSE STRING.pdb
+C:\Users\tss3\source\repos\069 REVERSE STRING\069 REVERSE STRING\obj\Debug\069 REVERSE STRING.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\069 REVERSE STRING\069 REVERSE STRING\obj\Debug\069 REVERSE STRING.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\069 REVERSE STRING\069 REVERSE STRING\obj\Debug\069 REVERSE STRING.exe
+C:\Users\tss3\source\repos\069 REVERSE STRING\069 REVERSE STRING\obj\Debug\069 REVERSE STRING.pdb

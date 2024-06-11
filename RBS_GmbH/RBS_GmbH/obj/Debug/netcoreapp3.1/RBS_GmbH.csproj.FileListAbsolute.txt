@@ -1,0 +1,16 @@
+C:\Users\tss3\source\repos\RBS_GmbH\RBS_GmbH\bin\Debug\netcoreapp3.1\RBS_GmbH.exe
+C:\Users\tss3\source\repos\RBS_GmbH\RBS_GmbH\bin\Debug\netcoreapp3.1\RBS_GmbH.deps.json
+C:\Users\tss3\source\repos\RBS_GmbH\RBS_GmbH\bin\Debug\netcoreapp3.1\RBS_GmbH.runtimeconfig.json
+C:\Users\tss3\source\repos\RBS_GmbH\RBS_GmbH\bin\Debug\netcoreapp3.1\RBS_GmbH.runtimeconfig.dev.json
+C:\Users\tss3\source\repos\RBS_GmbH\RBS_GmbH\bin\Debug\netcoreapp3.1\RBS_GmbH.dll
+C:\Users\tss3\source\repos\RBS_GmbH\RBS_GmbH\bin\Debug\netcoreapp3.1\RBS_GmbH.pdb
+C:\Users\tss3\source\repos\RBS_GmbH\RBS_GmbH\obj\Debug\netcoreapp3.1\RBS_GmbH.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\RBS_GmbH\RBS_GmbH\obj\Debug\netcoreapp3.1\RBS_GmbH.Properties.Resources.resources
+C:\Users\tss3\source\repos\RBS_GmbH\RBS_GmbH\obj\Debug\netcoreapp3.1\RBS_GmbH.RBSfrm.resources
+C:\Users\tss3\source\repos\RBS_GmbH\RBS_GmbH\obj\Debug\netcoreapp3.1\RBS_GmbH.csproj.GenerateResource.cache
+C:\Users\tss3\source\repos\RBS_GmbH\RBS_GmbH\obj\Debug\netcoreapp3.1\RBS_GmbH.AssemblyInfoInputs.cache
+C:\Users\tss3\source\repos\RBS_GmbH\RBS_GmbH\obj\Debug\netcoreapp3.1\RBS_GmbH.AssemblyInfo.cs
+C:\Users\tss3\source\repos\RBS_GmbH\RBS_GmbH\obj\Debug\netcoreapp3.1\RBS_GmbH.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\RBS_GmbH\RBS_GmbH\obj\Debug\netcoreapp3.1\RBS_GmbH.dll
+C:\Users\tss3\source\repos\RBS_GmbH\RBS_GmbH\obj\Debug\netcoreapp3.1\RBS_GmbH.pdb
+C:\Users\tss3\source\repos\RBS_GmbH\RBS_GmbH\obj\Debug\netcoreapp3.1\RBS_GmbH.genruntimeconfig.cache

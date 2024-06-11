@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\OOP\228 OOP inheritance\228 OOP inheritance\bin\Debug\228 OOP inheritance.exe.config
+C:\Users\tss3\source\repos\OOP\228 OOP inheritance\228 OOP inheritance\bin\Debug\228 OOP inheritance.exe
+C:\Users\tss3\source\repos\OOP\228 OOP inheritance\228 OOP inheritance\bin\Debug\228 OOP inheritance.pdb
+C:\Users\tss3\source\repos\OOP\228 OOP inheritance\228 OOP inheritance\obj\Debug\228 OOP inheritance.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\OOP\228 OOP inheritance\228 OOP inheritance\obj\Debug\228 OOP inheritance.exe
+C:\Users\tss3\source\repos\OOP\228 OOP inheritance\228 OOP inheritance\obj\Debug\228 OOP inheritance.pdb
+C:\Users\tss3\source\repos\OOP\228 OOP inheritance\228 OOP inheritance\obj\Debug\228 OOP inheritance.csproj.AssemblyReference.cache

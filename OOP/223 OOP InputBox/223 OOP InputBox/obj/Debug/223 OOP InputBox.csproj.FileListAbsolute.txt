@@ -1,0 +1,20 @@
+C:\Users\tss3\source\repos\223 OOP InputBox\223 OOP InputBox\bin\Debug\223 OOP InputBox.exe.config
+C:\Users\tss3\source\repos\223 OOP InputBox\223 OOP InputBox\bin\Debug\223 OOP InputBox.exe
+C:\Users\tss3\source\repos\223 OOP InputBox\223 OOP InputBox\bin\Debug\223 OOP InputBox.pdb
+C:\Users\tss3\source\repos\223 OOP InputBox\223 OOP InputBox\obj\Debug\223 OOP InputBox.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\223 OOP InputBox\223 OOP InputBox\obj\Debug\_223_OOP_InputBox.Form1.resources
+C:\Users\tss3\source\repos\223 OOP InputBox\223 OOP InputBox\obj\Debug\_223_OOP_InputBox.Properties.Resources.resources
+C:\Users\tss3\source\repos\223 OOP InputBox\223 OOP InputBox\obj\Debug\223 OOP InputBox.csproj.GenerateResource.cache
+C:\Users\tss3\source\repos\223 OOP InputBox\223 OOP InputBox\obj\Debug\223 OOP InputBox.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\223 OOP InputBox\223 OOP InputBox\obj\Debug\223 OOP InputBox.exe
+C:\Users\tss3\source\repos\223 OOP InputBox\223 OOP InputBox\obj\Debug\223 OOP InputBox.pdb
+C:\Users\tss3\source\repos\OOP\223 OOP InputBox\223 OOP InputBox\bin\Debug\223 OOP InputBox.exe.config
+C:\Users\tss3\source\repos\OOP\223 OOP InputBox\223 OOP InputBox\bin\Debug\223 OOP InputBox.exe
+C:\Users\tss3\source\repos\OOP\223 OOP InputBox\223 OOP InputBox\bin\Debug\223 OOP InputBox.pdb
+C:\Users\tss3\source\repos\OOP\223 OOP InputBox\223 OOP InputBox\obj\Debug\223 OOP InputBox.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\OOP\223 OOP InputBox\223 OOP InputBox\obj\Debug\_223_OOP_InputBox.Form1.resources
+C:\Users\tss3\source\repos\OOP\223 OOP InputBox\223 OOP InputBox\obj\Debug\_223_OOP_InputBox.Properties.Resources.resources
+C:\Users\tss3\source\repos\OOP\223 OOP InputBox\223 OOP InputBox\obj\Debug\223 OOP InputBox.csproj.GenerateResource.cache
+C:\Users\tss3\source\repos\OOP\223 OOP InputBox\223 OOP InputBox\obj\Debug\223 OOP InputBox.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\OOP\223 OOP InputBox\223 OOP InputBox\obj\Debug\223 OOP InputBox.exe
+C:\Users\tss3\source\repos\OOP\223 OOP InputBox\223 OOP InputBox\obj\Debug\223 OOP InputBox.pdb

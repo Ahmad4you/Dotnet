@@ -1,0 +1,14 @@
+C:\Users\tss3\source\repos\220 OOP InputBox\220 OOP InputBox\bin\Debug\220 OOP InputBox.exe.config
+C:\Users\tss3\source\repos\220 OOP InputBox\220 OOP InputBox\bin\Debug\220 OOP InputBox.exe
+C:\Users\tss3\source\repos\220 OOP InputBox\220 OOP InputBox\bin\Debug\220 OOP InputBox.pdb
+C:\Users\tss3\source\repos\220 OOP InputBox\220 OOP InputBox\obj\Debug\220 OOP InputBox.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\220 OOP InputBox\220 OOP InputBox\obj\Debug\220 OOP InputBox.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\220 OOP InputBox\220 OOP InputBox\obj\Debug\220 OOP InputBox.exe
+C:\Users\tss3\source\repos\220 OOP InputBox\220 OOP InputBox\obj\Debug\220 OOP InputBox.pdb
+C:\Users\tss3\source\repos\OOP\220 OOP InputBox\220 OOP InputBox\bin\Debug\220 OOP InputBox.exe.config
+C:\Users\tss3\source\repos\OOP\220 OOP InputBox\220 OOP InputBox\bin\Debug\220 OOP InputBox.exe
+C:\Users\tss3\source\repos\OOP\220 OOP InputBox\220 OOP InputBox\bin\Debug\220 OOP InputBox.pdb
+C:\Users\tss3\source\repos\OOP\220 OOP InputBox\220 OOP InputBox\obj\Debug\220 OOP InputBox.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\OOP\220 OOP InputBox\220 OOP InputBox\obj\Debug\220 OOP InputBox.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\OOP\220 OOP InputBox\220 OOP InputBox\obj\Debug\220 OOP InputBox.exe
+C:\Users\tss3\source\repos\OOP\220 OOP InputBox\220 OOP InputBox\obj\Debug\220 OOP InputBox.pdb

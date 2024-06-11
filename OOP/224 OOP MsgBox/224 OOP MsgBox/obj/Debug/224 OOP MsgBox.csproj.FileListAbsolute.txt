@@ -1,0 +1,14 @@
+C:\Users\tss3\source\repos\224 OOP MsgBox\224 OOP MsgBox\bin\Debug\224 OOP MsgBox.exe.config
+C:\Users\tss3\source\repos\224 OOP MsgBox\224 OOP MsgBox\bin\Debug\224 OOP MsgBox.exe
+C:\Users\tss3\source\repos\224 OOP MsgBox\224 OOP MsgBox\bin\Debug\224 OOP MsgBox.pdb
+C:\Users\tss3\source\repos\224 OOP MsgBox\224 OOP MsgBox\obj\Debug\224 OOP MsgBox.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\224 OOP MsgBox\224 OOP MsgBox\obj\Debug\224 OOP MsgBox.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\224 OOP MsgBox\224 OOP MsgBox\obj\Debug\224 OOP MsgBox.exe
+C:\Users\tss3\source\repos\224 OOP MsgBox\224 OOP MsgBox\obj\Debug\224 OOP MsgBox.pdb
+C:\Users\tss3\source\repos\OOP\224 OOP MsgBox\224 OOP MsgBox\bin\Debug\224 OOP MsgBox.exe.config
+C:\Users\tss3\source\repos\OOP\224 OOP MsgBox\224 OOP MsgBox\bin\Debug\224 OOP MsgBox.exe
+C:\Users\tss3\source\repos\OOP\224 OOP MsgBox\224 OOP MsgBox\bin\Debug\224 OOP MsgBox.pdb
+C:\Users\tss3\source\repos\OOP\224 OOP MsgBox\224 OOP MsgBox\obj\Debug\224 OOP MsgBox.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\OOP\224 OOP MsgBox\224 OOP MsgBox\obj\Debug\224 OOP MsgBox.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\OOP\224 OOP MsgBox\224 OOP MsgBox\obj\Debug\224 OOP MsgBox.exe
+C:\Users\tss3\source\repos\OOP\224 OOP MsgBox\224 OOP MsgBox\obj\Debug\224 OOP MsgBox.pdb

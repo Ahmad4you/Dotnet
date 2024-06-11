@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\Aufgabe2_XML\Aufgabe2_XML\bin\Debug\Aufgabe2_XML.exe.config
+C:\Users\tss3\source\repos\Aufgabe2_XML\Aufgabe2_XML\bin\Debug\Aufgabe2_XML.exe
+C:\Users\tss3\source\repos\Aufgabe2_XML\Aufgabe2_XML\bin\Debug\Aufgabe2_XML.pdb
+C:\Users\tss3\source\repos\Aufgabe2_XML\Aufgabe2_XML\obj\Debug\Aufgabe2_XML.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\Aufgabe2_XML\Aufgabe2_XML\obj\Debug\Aufgabe2_XML.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\Aufgabe2_XML\Aufgabe2_XML\obj\Debug\Aufgabe2_XML.exe
+C:\Users\tss3\source\repos\Aufgabe2_XML\Aufgabe2_XML\obj\Debug\Aufgabe2_XML.pdb

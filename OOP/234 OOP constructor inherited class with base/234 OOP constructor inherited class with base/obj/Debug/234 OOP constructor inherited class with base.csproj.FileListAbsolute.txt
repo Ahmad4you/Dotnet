@@ -1,0 +1,14 @@
+C:\Users\tss3\source\repos\234 OOP constructor inherited class with base\234 OOP constructor inherited class with base\bin\Debug\234 OOP constructor inherited class with base.exe.config
+C:\Users\tss3\source\repos\234 OOP constructor inherited class with base\234 OOP constructor inherited class with base\bin\Debug\234 OOP constructor inherited class with base.exe
+C:\Users\tss3\source\repos\234 OOP constructor inherited class with base\234 OOP constructor inherited class with base\bin\Debug\234 OOP constructor inherited class with base.pdb
+C:\Users\tss3\source\repos\234 OOP constructor inherited class with base\234 OOP constructor inherited class with base\obj\Debug\234 OOP constructor inherited class with base.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\234 OOP constructor inherited class with base\234 OOP constructor inherited class with base\obj\Debug\234 OOP constructor inherited class with base.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\234 OOP constructor inherited class with base\234 OOP constructor inherited class with base\obj\Debug\234 OOP constructor inherited class with base.exe
+C:\Users\tss3\source\repos\234 OOP constructor inherited class with base\234 OOP constructor inherited class with base\obj\Debug\234 OOP constructor inherited class with base.pdb
+C:\Users\tss3\source\repos\OOP\234 OOP constructor inherited class with base\234 OOP constructor inherited class with base\bin\Debug\234 OOP constructor inherited class with base.exe.config
+C:\Users\tss3\source\repos\OOP\234 OOP constructor inherited class with base\234 OOP constructor inherited class with base\bin\Debug\234 OOP constructor inherited class with base.exe
+C:\Users\tss3\source\repos\OOP\234 OOP constructor inherited class with base\234 OOP constructor inherited class with base\bin\Debug\234 OOP constructor inherited class with base.pdb
+C:\Users\tss3\source\repos\OOP\234 OOP constructor inherited class with base\234 OOP constructor inherited class with base\obj\Debug\234 OOP constructor inherited class with base.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\OOP\234 OOP constructor inherited class with base\234 OOP constructor inherited class with base\obj\Debug\234 OOP constructor inherited class with base.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\OOP\234 OOP constructor inherited class with base\234 OOP constructor inherited class with base\obj\Debug\234 OOP constructor inherited class with base.exe
+C:\Users\tss3\source\repos\OOP\234 OOP constructor inherited class with base\234 OOP constructor inherited class with base\obj\Debug\234 OOP constructor inherited class with base.pdb

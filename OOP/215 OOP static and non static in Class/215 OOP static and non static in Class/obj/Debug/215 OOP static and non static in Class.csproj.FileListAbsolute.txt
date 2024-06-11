@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\215 OOP static and non static in Class\215 OOP static and non static in Class\bin\Debug\215 OOP static and non static in Class.exe.config
+C:\Users\tss3\source\repos\215 OOP static and non static in Class\215 OOP static and non static in Class\bin\Debug\215 OOP static and non static in Class.exe
+C:\Users\tss3\source\repos\215 OOP static and non static in Class\215 OOP static and non static in Class\bin\Debug\215 OOP static and non static in Class.pdb
+C:\Users\tss3\source\repos\215 OOP static and non static in Class\215 OOP static and non static in Class\obj\Debug\215 OOP static and non static in Class.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\215 OOP static and non static in Class\215 OOP static and non static in Class\obj\Debug\215 OOP static and non static in Class.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\215 OOP static and non static in Class\215 OOP static and non static in Class\obj\Debug\215 OOP static and non static in Class.exe
+C:\Users\tss3\source\repos\215 OOP static and non static in Class\215 OOP static and non static in Class\obj\Debug\215 OOP static and non static in Class.pdb

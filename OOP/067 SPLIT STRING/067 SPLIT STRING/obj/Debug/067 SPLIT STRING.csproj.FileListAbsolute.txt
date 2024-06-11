@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\067 SPLIT STRING\067 SPLIT STRING\bin\Debug\067 SPLIT STRING.exe.config
+C:\Users\tss3\source\repos\067 SPLIT STRING\067 SPLIT STRING\bin\Debug\067 SPLIT STRING.exe
+C:\Users\tss3\source\repos\067 SPLIT STRING\067 SPLIT STRING\bin\Debug\067 SPLIT STRING.pdb
+C:\Users\tss3\source\repos\067 SPLIT STRING\067 SPLIT STRING\obj\Debug\067 SPLIT STRING.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\067 SPLIT STRING\067 SPLIT STRING\obj\Debug\067 SPLIT STRING.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\067 SPLIT STRING\067 SPLIT STRING\obj\Debug\067 SPLIT STRING.exe
+C:\Users\tss3\source\repos\067 SPLIT STRING\067 SPLIT STRING\obj\Debug\067 SPLIT STRING.pdb

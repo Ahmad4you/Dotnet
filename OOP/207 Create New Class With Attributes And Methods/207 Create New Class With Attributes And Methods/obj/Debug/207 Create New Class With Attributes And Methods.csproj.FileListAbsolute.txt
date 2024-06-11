@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\207 Create New Class With Attributes And Methods\207 Create New Class With Attributes And Methods\bin\Debug\207 Create New Class With Attributes And Methods.exe.config
+C:\Users\tss3\source\repos\207 Create New Class With Attributes And Methods\207 Create New Class With Attributes And Methods\bin\Debug\207 Create New Class With Attributes And Methods.exe
+C:\Users\tss3\source\repos\207 Create New Class With Attributes And Methods\207 Create New Class With Attributes And Methods\bin\Debug\207 Create New Class With Attributes And Methods.pdb
+C:\Users\tss3\source\repos\207 Create New Class With Attributes And Methods\207 Create New Class With Attributes And Methods\obj\Debug\207 Create New Class With Attributes And Methods.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\207 Create New Class With Attributes And Methods\207 Create New Class With Attributes And Methods\obj\Debug\207 Create New Class With Attributes And Methods.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\207 Create New Class With Attributes And Methods\207 Create New Class With Attributes And Methods\obj\Debug\207 Create New Class With Attributes And Methods.exe
+C:\Users\tss3\source\repos\207 Create New Class With Attributes And Methods\207 Create New Class With Attributes And Methods\obj\Debug\207 Create New Class With Attributes And Methods.pdb

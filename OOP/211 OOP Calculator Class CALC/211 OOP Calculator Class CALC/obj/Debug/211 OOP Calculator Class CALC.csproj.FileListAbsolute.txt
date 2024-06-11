@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\211 OOP Calculator Class CALC\211 OOP Calculator Class CALC\bin\Debug\211 OOP Calculator Class CALC.exe.config
+C:\Users\tss3\source\repos\211 OOP Calculator Class CALC\211 OOP Calculator Class CALC\bin\Debug\211 OOP Calculator Class CALC.exe
+C:\Users\tss3\source\repos\211 OOP Calculator Class CALC\211 OOP Calculator Class CALC\bin\Debug\211 OOP Calculator Class CALC.pdb
+C:\Users\tss3\source\repos\211 OOP Calculator Class CALC\211 OOP Calculator Class CALC\obj\Debug\211 OOP Calculator Class CALC.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\211 OOP Calculator Class CALC\211 OOP Calculator Class CALC\obj\Debug\211 OOP Calculator Class CALC.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\211 OOP Calculator Class CALC\211 OOP Calculator Class CALC\obj\Debug\211 OOP Calculator Class CALC.exe
+C:\Users\tss3\source\repos\211 OOP Calculator Class CALC\211 OOP Calculator Class CALC\obj\Debug\211 OOP Calculator Class CALC.pdb

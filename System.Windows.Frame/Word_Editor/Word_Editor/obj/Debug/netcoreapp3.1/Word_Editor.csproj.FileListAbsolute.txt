@@ -1,0 +1,15 @@
+C:\Users\tss3\source\repos\Word_Editor\Word_Editor\bin\Debug\netcoreapp3.1\Word_Editor.exe
+C:\Users\tss3\source\repos\Word_Editor\Word_Editor\bin\Debug\netcoreapp3.1\Word_Editor.deps.json
+C:\Users\tss3\source\repos\Word_Editor\Word_Editor\bin\Debug\netcoreapp3.1\Word_Editor.runtimeconfig.json
+C:\Users\tss3\source\repos\Word_Editor\Word_Editor\bin\Debug\netcoreapp3.1\Word_Editor.runtimeconfig.dev.json
+C:\Users\tss3\source\repos\Word_Editor\Word_Editor\bin\Debug\netcoreapp3.1\Word_Editor.dll
+C:\Users\tss3\source\repos\Word_Editor\Word_Editor\bin\Debug\netcoreapp3.1\Word_Editor.pdb
+C:\Users\tss3\source\repos\Word_Editor\Word_Editor\obj\Debug\netcoreapp3.1\Word_Editor.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\Word_Editor\Word_Editor\obj\Debug\netcoreapp3.1\Word_Editor.FrmWord.resources
+C:\Users\tss3\source\repos\Word_Editor\Word_Editor\obj\Debug\netcoreapp3.1\Word_Editor.csproj.GenerateResource.cache
+C:\Users\tss3\source\repos\Word_Editor\Word_Editor\obj\Debug\netcoreapp3.1\Word_Editor.AssemblyInfoInputs.cache
+C:\Users\tss3\source\repos\Word_Editor\Word_Editor\obj\Debug\netcoreapp3.1\Word_Editor.AssemblyInfo.cs
+C:\Users\tss3\source\repos\Word_Editor\Word_Editor\obj\Debug\netcoreapp3.1\Word_Editor.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\Word_Editor\Word_Editor\obj\Debug\netcoreapp3.1\Word_Editor.dll
+C:\Users\tss3\source\repos\Word_Editor\Word_Editor\obj\Debug\netcoreapp3.1\Word_Editor.pdb
+C:\Users\tss3\source\repos\Word_Editor\Word_Editor\obj\Debug\netcoreapp3.1\Word_Editor.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\tss3\source\repos\236 OOP get class name and namespace and base type\236 OOP get class name and namespace and base type\bin\Debug\236 OOP get class name and namespace and base type.exe.config
+C:\Users\tss3\source\repos\236 OOP get class name and namespace and base type\236 OOP get class name and namespace and base type\bin\Debug\236 OOP get class name and namespace and base type.exe
+C:\Users\tss3\source\repos\236 OOP get class name and namespace and base type\236 OOP get class name and namespace and base type\bin\Debug\236 OOP get class name and namespace and base type.pdb
+C:\Users\tss3\source\repos\236 OOP get class name and namespace and base type\236 OOP get class name and namespace and base type\obj\Debug\236 OOP get class name and namespace and base type.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\236 OOP get class name and namespace and base type\236 OOP get class name and namespace and base type\obj\Debug\236 OOP get class name and namespace and base type.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\236 OOP get class name and namespace and base type\236 OOP get class name and namespace and base type\obj\Debug\236 OOP get class name and namespace and base type.exe
+C:\Users\tss3\source\repos\236 OOP get class name and namespace and base type\236 OOP get class name and namespace and base type\obj\Debug\236 OOP get class name and namespace and base type.pdb
+C:\Users\tss3\source\repos\OOP\236 OOP get class name and namespace and base type\236 OOP get class name and namespace and base type\bin\Debug\236 OOP get class name and namespace and base type.exe.config
+C:\Users\tss3\source\repos\OOP\236 OOP get class name and namespace and base type\236 OOP get class name and namespace and base type\bin\Debug\236 OOP get class name and namespace and base type.exe
+C:\Users\tss3\source\repos\OOP\236 OOP get class name and namespace and base type\236 OOP get class name and namespace and base type\bin\Debug\236 OOP get class name and namespace and base type.pdb
+C:\Users\tss3\source\repos\OOP\236 OOP get class name and namespace and base type\236 OOP get class name and namespace and base type\obj\Debug\236 OOP get class name and namespace and base type.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\OOP\236 OOP get class name and namespace and base type\236 OOP get class name and namespace and base type\obj\Debug\236 OOP get class name and namespace and base type.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\OOP\236 OOP get class name and namespace and base type\236 OOP get class name and namespace and base type\obj\Debug\236 OOP get class name and namespace and base type.exe
+C:\Users\tss3\source\repos\OOP\236 OOP get class name and namespace and base type\236 OOP get class name and namespace and base type\obj\Debug\236 OOP get class name and namespace and base type.pdb

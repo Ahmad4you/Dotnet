@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\059 FOREACH LOOP\059 FOREACH LOOP\bin\Debug\059 FOREACH LOOP.exe.config
+C:\Users\tss3\source\repos\059 FOREACH LOOP\059 FOREACH LOOP\bin\Debug\059 FOREACH LOOP.exe
+C:\Users\tss3\source\repos\059 FOREACH LOOP\059 FOREACH LOOP\bin\Debug\059 FOREACH LOOP.pdb
+C:\Users\tss3\source\repos\059 FOREACH LOOP\059 FOREACH LOOP\obj\Debug\059 FOREACH LOOP.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\059 FOREACH LOOP\059 FOREACH LOOP\obj\Debug\059 FOREACH LOOP.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\059 FOREACH LOOP\059 FOREACH LOOP\obj\Debug\059 FOREACH LOOP.exe
+C:\Users\tss3\source\repos\059 FOREACH LOOP\059 FOREACH LOOP\obj\Debug\059 FOREACH LOOP.pdb

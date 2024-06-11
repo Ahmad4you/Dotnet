@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\218 OOP CLASS To Create Data File\218 OOP CLASS To Create Data File\bin\Debug\218 OOP CLASS To Create Data File.exe.config
+C:\Users\tss3\source\repos\218 OOP CLASS To Create Data File\218 OOP CLASS To Create Data File\bin\Debug\218 OOP CLASS To Create Data File.exe
+C:\Users\tss3\source\repos\218 OOP CLASS To Create Data File\218 OOP CLASS To Create Data File\bin\Debug\218 OOP CLASS To Create Data File.pdb
+C:\Users\tss3\source\repos\218 OOP CLASS To Create Data File\218 OOP CLASS To Create Data File\obj\Debug\218 OOP CLASS To Create Data File.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\218 OOP CLASS To Create Data File\218 OOP CLASS To Create Data File\obj\Debug\218 OOP CLASS To Create Data File.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\218 OOP CLASS To Create Data File\218 OOP CLASS To Create Data File\obj\Debug\218 OOP CLASS To Create Data File.exe
+C:\Users\tss3\source\repos\218 OOP CLASS To Create Data File\218 OOP CLASS To Create Data File\obj\Debug\218 OOP CLASS To Create Data File.pdb

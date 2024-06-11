@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<medien>
+  <buch>
+    <bibnr>32</bibnr>
+    <titel>Die Spur des Fuchses</titel>
+    <zustand>gut</zustand>
+    <seitenzahl>272</seitenzahl>
+  </buch>
+  <buch>
+    <bibnr>33</bibnr>
+    <titel>Deutschstunde</titel>
+    <zustand>sehr gut</zustand>
+    <seitenzahl>576</seitenzahl>
+  </buch>
+  <hoerbuch>
+    <bibnr>34</bibnr>
+    <titel>Die Spur des Fuchses</titel>
+    <zustand>gut</zustand>
+    <dauer>74</dauer>
+  </hoerbuch>
+</medien>

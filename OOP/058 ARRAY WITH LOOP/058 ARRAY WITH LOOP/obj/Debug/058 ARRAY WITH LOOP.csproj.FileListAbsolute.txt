@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\058 ARRAY WITH LOOP\058 ARRAY WITH LOOP\bin\Debug\058 ARRAY WITH LOOP.exe.config
+C:\Users\tss3\source\repos\058 ARRAY WITH LOOP\058 ARRAY WITH LOOP\bin\Debug\058 ARRAY WITH LOOP.exe
+C:\Users\tss3\source\repos\058 ARRAY WITH LOOP\058 ARRAY WITH LOOP\bin\Debug\058 ARRAY WITH LOOP.pdb
+C:\Users\tss3\source\repos\058 ARRAY WITH LOOP\058 ARRAY WITH LOOP\obj\Debug\058 ARRAY WITH LOOP.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\058 ARRAY WITH LOOP\058 ARRAY WITH LOOP\obj\Debug\058 ARRAY WITH LOOP.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\058 ARRAY WITH LOOP\058 ARRAY WITH LOOP\obj\Debug\058 ARRAY WITH LOOP.exe
+C:\Users\tss3\source\repos\058 ARRAY WITH LOOP\058 ARRAY WITH LOOP\obj\Debug\058 ARRAY WITH LOOP.pdb

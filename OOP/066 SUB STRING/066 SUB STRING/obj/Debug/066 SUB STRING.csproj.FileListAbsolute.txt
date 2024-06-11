@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\066 SUB STRING\066 SUB STRING\bin\Debug\066 SUB STRING.exe.config
+C:\Users\tss3\source\repos\066 SUB STRING\066 SUB STRING\bin\Debug\066 SUB STRING.exe
+C:\Users\tss3\source\repos\066 SUB STRING\066 SUB STRING\bin\Debug\066 SUB STRING.pdb
+C:\Users\tss3\source\repos\066 SUB STRING\066 SUB STRING\obj\Debug\066 SUB STRING.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\066 SUB STRING\066 SUB STRING\obj\Debug\066 SUB STRING.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\066 SUB STRING\066 SUB STRING\obj\Debug\066 SUB STRING.exe
+C:\Users\tss3\source\repos\066 SUB STRING\066 SUB STRING\obj\Debug\066 SUB STRING.pdb

@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\216 OOP Create Folder\216 OOP Create Folder\bin\Debug\216 OOP Create Folder.exe.config
+C:\Users\tss3\source\repos\216 OOP Create Folder\216 OOP Create Folder\bin\Debug\216 OOP Create Folder.exe
+C:\Users\tss3\source\repos\216 OOP Create Folder\216 OOP Create Folder\bin\Debug\216 OOP Create Folder.pdb
+C:\Users\tss3\source\repos\216 OOP Create Folder\216 OOP Create Folder\obj\Debug\216 OOP Create Folder.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\216 OOP Create Folder\216 OOP Create Folder\obj\Debug\216 OOP Create Folder.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\216 OOP Create Folder\216 OOP Create Folder\obj\Debug\216 OOP Create Folder.exe
+C:\Users\tss3\source\repos\216 OOP Create Folder\216 OOP Create Folder\obj\Debug\216 OOP Create Folder.pdb

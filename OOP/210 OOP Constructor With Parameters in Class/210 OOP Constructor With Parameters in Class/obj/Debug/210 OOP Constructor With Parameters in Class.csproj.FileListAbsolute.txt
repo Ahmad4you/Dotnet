@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\210 OOP Constructor With Parameters in Class\210 OOP Constructor With Parameters in Class\bin\Debug\210 OOP Constructor With Parameters in Class.exe.config
+C:\Users\tss3\source\repos\210 OOP Constructor With Parameters in Class\210 OOP Constructor With Parameters in Class\bin\Debug\210 OOP Constructor With Parameters in Class.exe
+C:\Users\tss3\source\repos\210 OOP Constructor With Parameters in Class\210 OOP Constructor With Parameters in Class\bin\Debug\210 OOP Constructor With Parameters in Class.pdb
+C:\Users\tss3\source\repos\210 OOP Constructor With Parameters in Class\210 OOP Constructor With Parameters in Class\obj\Debug\210 OOP Constructor With Parameters in Class.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\210 OOP Constructor With Parameters in Class\210 OOP Constructor With Parameters in Class\obj\Debug\210 OOP Constructor With Parameters in Class.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\210 OOP Constructor With Parameters in Class\210 OOP Constructor With Parameters in Class\obj\Debug\210 OOP Constructor With Parameters in Class.exe
+C:\Users\tss3\source\repos\210 OOP Constructor With Parameters in Class\210 OOP Constructor With Parameters in Class\obj\Debug\210 OOP Constructor With Parameters in Class.pdb

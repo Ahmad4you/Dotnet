@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\reader_writer\reader_writer\bin\Debug\reader_writer.exe.config
+C:\Users\tss3\source\repos\reader_writer\reader_writer\bin\Debug\reader_writer.exe
+C:\Users\tss3\source\repos\reader_writer\reader_writer\bin\Debug\reader_writer.pdb
+C:\Users\tss3\source\repos\reader_writer\reader_writer\obj\Debug\reader_writer.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\reader_writer\reader_writer\obj\Debug\reader_writer.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\reader_writer\reader_writer\obj\Debug\reader_writer.exe
+C:\Users\tss3\source\repos\reader_writer\reader_writer\obj\Debug\reader_writer.pdb

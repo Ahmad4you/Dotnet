@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "052 LOOP USING WHILE STATEMENT VISUAL STUDIO/1.0.0": {
+        "runtime": {
+          "052 LOOP USING WHILE STATEMENT VISUAL STUDIO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "052 LOOP USING WHILE STATEMENT VISUAL STUDIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

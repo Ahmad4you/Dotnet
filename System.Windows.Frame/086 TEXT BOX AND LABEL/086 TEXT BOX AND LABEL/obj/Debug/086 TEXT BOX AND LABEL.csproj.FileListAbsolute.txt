@@ -1,0 +1,20 @@
+C:\Users\tss3\source\repos\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\bin\Debug\086 TEXT BOX AND LABEL.exe.config
+C:\Users\tss3\source\repos\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\bin\Debug\086 TEXT BOX AND LABEL.exe
+C:\Users\tss3\source\repos\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\bin\Debug\086 TEXT BOX AND LABEL.pdb
+C:\Users\tss3\source\repos\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\obj\Debug\086 TEXT BOX AND LABEL.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\obj\Debug\_086_TEXT_BOX_AND_LABEL.Form1.resources
+C:\Users\tss3\source\repos\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\obj\Debug\_086_TEXT_BOX_AND_LABEL.Properties.Resources.resources
+C:\Users\tss3\source\repos\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\obj\Debug\086 TEXT BOX AND LABEL.csproj.GenerateResource.cache
+C:\Users\tss3\source\repos\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\obj\Debug\086 TEXT BOX AND LABEL.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\obj\Debug\086 TEXT BOX AND LABEL.exe
+C:\Users\tss3\source\repos\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\obj\Debug\086 TEXT BOX AND LABEL.pdb
+C:\Users\tss3\source\repos\System.Windows.Frame\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\bin\Debug\086 TEXT BOX AND LABEL.exe.config
+C:\Users\tss3\source\repos\System.Windows.Frame\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\bin\Debug\086 TEXT BOX AND LABEL.exe
+C:\Users\tss3\source\repos\System.Windows.Frame\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\bin\Debug\086 TEXT BOX AND LABEL.pdb
+C:\Users\tss3\source\repos\System.Windows.Frame\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\obj\Debug\086 TEXT BOX AND LABEL.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\System.Windows.Frame\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\obj\Debug\_086_TEXT_BOX_AND_LABEL.Form1.resources
+C:\Users\tss3\source\repos\System.Windows.Frame\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\obj\Debug\_086_TEXT_BOX_AND_LABEL.Properties.Resources.resources
+C:\Users\tss3\source\repos\System.Windows.Frame\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\obj\Debug\086 TEXT BOX AND LABEL.csproj.GenerateResource.cache
+C:\Users\tss3\source\repos\System.Windows.Frame\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\obj\Debug\086 TEXT BOX AND LABEL.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\System.Windows.Frame\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\obj\Debug\086 TEXT BOX AND LABEL.exe
+C:\Users\tss3\source\repos\System.Windows.Frame\086 TEXT BOX AND LABEL\086 TEXT BOX AND LABEL\obj\Debug\086 TEXT BOX AND LABEL.pdb

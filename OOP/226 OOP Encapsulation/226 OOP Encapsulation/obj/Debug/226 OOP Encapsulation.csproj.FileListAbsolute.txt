@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\226 OOP Encapsulation\226 OOP Encapsulation\bin\Debug\226 OOP Encapsulation.exe.config
+C:\Users\tss3\source\repos\226 OOP Encapsulation\226 OOP Encapsulation\bin\Debug\226 OOP Encapsulation.exe
+C:\Users\tss3\source\repos\226 OOP Encapsulation\226 OOP Encapsulation\bin\Debug\226 OOP Encapsulation.pdb
+C:\Users\tss3\source\repos\226 OOP Encapsulation\226 OOP Encapsulation\obj\Debug\226 OOP Encapsulation.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\226 OOP Encapsulation\226 OOP Encapsulation\obj\Debug\226 OOP Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\226 OOP Encapsulation\226 OOP Encapsulation\obj\Debug\226 OOP Encapsulation.exe
+C:\Users\tss3\source\repos\226 OOP Encapsulation\226 OOP Encapsulation\obj\Debug\226 OOP Encapsulation.pdb

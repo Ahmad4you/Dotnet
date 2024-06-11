@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\205 OOP Call By out Function\205 OOP Call By out Function\bin\Debug\205 OOP Call By out Function.exe.config
+C:\Users\tss3\source\repos\205 OOP Call By out Function\205 OOP Call By out Function\bin\Debug\205 OOP Call By out Function.exe
+C:\Users\tss3\source\repos\205 OOP Call By out Function\205 OOP Call By out Function\bin\Debug\205 OOP Call By out Function.pdb
+C:\Users\tss3\source\repos\205 OOP Call By out Function\205 OOP Call By out Function\obj\Debug\205 OOP Call By out Function.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\205 OOP Call By out Function\205 OOP Call By out Function\obj\Debug\205 OOP Call By out Function.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\205 OOP Call By out Function\205 OOP Call By out Function\obj\Debug\205 OOP Call By out Function.exe
+C:\Users\tss3\source\repos\205 OOP Call By out Function\205 OOP Call By out Function\obj\Debug\205 OOP Call By out Function.pdb

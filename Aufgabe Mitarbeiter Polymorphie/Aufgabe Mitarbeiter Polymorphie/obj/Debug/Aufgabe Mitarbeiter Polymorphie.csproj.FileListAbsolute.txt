@@ -1,0 +1,10 @@
+C:\Users\tss3\source\repos\Aufgabe Mitarbeiter Polymorphie\Aufgabe Mitarbeiter Polymorphie\obj\Debug\Aufgabe Mitarbeiter Polymorphie.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\Aufgabe Mitarbeiter Polymorphie\Aufgabe Mitarbeiter Polymorphie\obj\Debug\Aufgabe_Mitarbeiter_Polymorphie.Form1.resources
+C:\Users\tss3\source\repos\Aufgabe Mitarbeiter Polymorphie\Aufgabe Mitarbeiter Polymorphie\obj\Debug\Aufgabe_Mitarbeiter_Polymorphie.Properties.Resources.resources
+C:\Users\tss3\source\repos\Aufgabe Mitarbeiter Polymorphie\Aufgabe Mitarbeiter Polymorphie\obj\Debug\Aufgabe Mitarbeiter Polymorphie.csproj.GenerateResource.cache
+C:\Users\tss3\source\repos\Aufgabe Mitarbeiter Polymorphie\Aufgabe Mitarbeiter Polymorphie\obj\Debug\Aufgabe Mitarbeiter Polymorphie.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\Aufgabe Mitarbeiter Polymorphie\Aufgabe Mitarbeiter Polymorphie\bin\Debug\Aufgabe Mitarbeiter Polymorphie.exe.config
+C:\Users\tss3\source\repos\Aufgabe Mitarbeiter Polymorphie\Aufgabe Mitarbeiter Polymorphie\bin\Debug\Aufgabe Mitarbeiter Polymorphie.exe
+C:\Users\tss3\source\repos\Aufgabe Mitarbeiter Polymorphie\Aufgabe Mitarbeiter Polymorphie\bin\Debug\Aufgabe Mitarbeiter Polymorphie.pdb
+C:\Users\tss3\source\repos\Aufgabe Mitarbeiter Polymorphie\Aufgabe Mitarbeiter Polymorphie\obj\Debug\Aufgabe Mitarbeiter Polymorphie.exe
+C:\Users\tss3\source\repos\Aufgabe Mitarbeiter Polymorphie\Aufgabe Mitarbeiter Polymorphie\obj\Debug\Aufgabe Mitarbeiter Polymorphie.pdb

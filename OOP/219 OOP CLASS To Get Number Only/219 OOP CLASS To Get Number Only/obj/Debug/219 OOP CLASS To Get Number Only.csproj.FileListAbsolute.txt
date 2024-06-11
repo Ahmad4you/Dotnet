@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\219 OOP CLASS To Get Number Only\219 OOP CLASS To Get Number Only\bin\Debug\219 OOP CLASS To Get Number Only.exe.config
+C:\Users\tss3\source\repos\219 OOP CLASS To Get Number Only\219 OOP CLASS To Get Number Only\bin\Debug\219 OOP CLASS To Get Number Only.exe
+C:\Users\tss3\source\repos\219 OOP CLASS To Get Number Only\219 OOP CLASS To Get Number Only\bin\Debug\219 OOP CLASS To Get Number Only.pdb
+C:\Users\tss3\source\repos\219 OOP CLASS To Get Number Only\219 OOP CLASS To Get Number Only\obj\Debug\219 OOP CLASS To Get Number Only.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\219 OOP CLASS To Get Number Only\219 OOP CLASS To Get Number Only\obj\Debug\219 OOP CLASS To Get Number Only.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\219 OOP CLASS To Get Number Only\219 OOP CLASS To Get Number Only\obj\Debug\219 OOP CLASS To Get Number Only.exe
+C:\Users\tss3\source\repos\219 OOP CLASS To Get Number Only\219 OOP CLASS To Get Number Only\obj\Debug\219 OOP CLASS To Get Number Only.pdb

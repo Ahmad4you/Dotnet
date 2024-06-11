@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Comment CommentText="0 ..*">
+    <Position X="3.042" Y="3.517" Height="0.333" Width="0.7" />
+  </Comment>
+  <Comment CommentText="0.. *">
+    <Position X="4.025" Y="4.467" Height="0.333" Width="0.7" />
+  </Comment>
+  <Comment CommentText="composition 1">
+    <Position X="3.117" Y="5.525" Height="0.333" Width="1.075" />
+  </Comment>
+  <Comment CommentText="1.. *">
+    <Position X="3.033" Y="6.2" Height="0.333" Width="0.7" />
+  </Comment>
+  <Comment CommentText="0..*">
+    <Position X="3.108" Y="7.675" Height="0.333" Width="0.7" />
+  </Comment>
+  <Class Name="GA1.Artikel">
+    <Position X="2.25" Y="8.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAgAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>winter2016\Artikle.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Position" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GA1.Bestellung">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAABAAgAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>winter2016\Bestellung.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Position" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GA1.Endkunde">
+    <Position X="9" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>winter2016\Endkunde.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Bestellung" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GA1.Kunde">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQCgAAAAqAAAAAgAAAAgAQAAIAEAABAAAAAQAgEAAA=</HashCode>
+      <FileName>winter2016\Kunde.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GA1.Position">
+    <Position X="2.25" Y="6.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>winter2016\Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GA1.RegVertriebsbuero">
+    <Position X="2.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAEQAAAAA=</HashCode>
+      <FileName>winter2016\RegVertriebsbuero.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Bestellung" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

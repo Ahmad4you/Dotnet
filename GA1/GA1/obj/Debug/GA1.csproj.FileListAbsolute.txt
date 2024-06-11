@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\GA1\GA1\bin\Debug\GA1.exe.config
+C:\Users\tss3\source\repos\GA1\GA1\bin\Debug\GA1.exe
+C:\Users\tss3\source\repos\GA1\GA1\bin\Debug\GA1.pdb
+C:\Users\tss3\source\repos\GA1\GA1\obj\Debug\GA1.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\GA1\GA1\obj\Debug\GA1.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\GA1\GA1\obj\Debug\GA1.exe
+C:\Users\tss3\source\repos\GA1\GA1\obj\Debug\GA1.pdb

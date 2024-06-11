@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "065 ADVANCED STRING DOT FORMAT AND CONSOLE", "065 ADVANCED STRING DOT FORMAT AND CONSOLE\065 ADVANCED STRING DOT FORMAT AND CONSOLE.csproj", "{AB95BFD9-966E-4E48-8E2F-EAFF0D356FDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB95BFD9-966E-4E48-8E2F-EAFF0D356FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB95BFD9-966E-4E48-8E2F-EAFF0D356FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB95BFD9-966E-4E48-8E2F-EAFF0D356FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB95BFD9-966E-4E48-8E2F-EAFF0D356FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05E6B2E7-F453-4F2F-9E8B-21F6A6EA830A}
+	EndGlobalSection
+EndGlobal

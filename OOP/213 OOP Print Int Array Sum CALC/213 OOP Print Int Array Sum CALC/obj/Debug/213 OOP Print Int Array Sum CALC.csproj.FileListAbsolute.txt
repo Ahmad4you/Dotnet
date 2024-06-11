@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\213 OOP Print Int Array Sum CALC\213 OOP Print Int Array Sum CALC\bin\Debug\213 OOP Print Int Array Sum CALC.exe.config
+C:\Users\tss3\source\repos\213 OOP Print Int Array Sum CALC\213 OOP Print Int Array Sum CALC\bin\Debug\213 OOP Print Int Array Sum CALC.exe
+C:\Users\tss3\source\repos\213 OOP Print Int Array Sum CALC\213 OOP Print Int Array Sum CALC\bin\Debug\213 OOP Print Int Array Sum CALC.pdb
+C:\Users\tss3\source\repos\213 OOP Print Int Array Sum CALC\213 OOP Print Int Array Sum CALC\obj\Debug\213 OOP Print Int Array Sum CALC.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\213 OOP Print Int Array Sum CALC\213 OOP Print Int Array Sum CALC\obj\Debug\213 OOP Print Int Array Sum CALC.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\213 OOP Print Int Array Sum CALC\213 OOP Print Int Array Sum CALC\obj\Debug\213 OOP Print Int Array Sum CALC.exe
+C:\Users\tss3\source\repos\213 OOP Print Int Array Sum CALC\213 OOP Print Int Array Sum CALC\obj\Debug\213 OOP Print Int Array Sum CALC.pdb

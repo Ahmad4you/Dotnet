@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\060 Debuging TRACING PROGRAM\060 Debuging TRACING PROGRAM\bin\Debug\060 Debuging TRACING PROGRAM.exe.config
+C:\Users\tss3\source\repos\060 Debuging TRACING PROGRAM\060 Debuging TRACING PROGRAM\bin\Debug\060 Debuging TRACING PROGRAM.exe
+C:\Users\tss3\source\repos\060 Debuging TRACING PROGRAM\060 Debuging TRACING PROGRAM\bin\Debug\060 Debuging TRACING PROGRAM.pdb
+C:\Users\tss3\source\repos\060 Debuging TRACING PROGRAM\060 Debuging TRACING PROGRAM\obj\Debug\060 Debuging TRACING PROGRAM.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\060 Debuging TRACING PROGRAM\060 Debuging TRACING PROGRAM\obj\Debug\060 Debuging TRACING PROGRAM.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\060 Debuging TRACING PROGRAM\060 Debuging TRACING PROGRAM\obj\Debug\060 Debuging TRACING PROGRAM.exe
+C:\Users\tss3\source\repos\060 Debuging TRACING PROGRAM\060 Debuging TRACING PROGRAM\obj\Debug\060 Debuging TRACING PROGRAM.pdb

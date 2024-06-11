@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Sommer2015.Kuenstlergruppe">
+    <Position X="4.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAEAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>sommer2015\Kuenstlergruppe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sommer2015.Kuenstlerliste">
+    <Position X="0.5" Y="0.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAgAAEAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sommer2015\Kuenstlerliste.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sommer2015.Artistengruppe">
+    <Position X="9.25" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgSAAACAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>sommer2015\Artistengruppe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sommer2015.Musikgruppe">
+    <Position X="4.75" Y="2.75" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAACAAAAEAAAAAAAAACCAgAIAAAAAAAAAAAA=</HashCode>
+      <FileName>sommer2015\Musikgruppe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

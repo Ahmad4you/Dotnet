@@ -1,0 +1,20 @@
+C:\Users\tss3\source\repos\082 FORM PROPERTIES\082 FORM PROPERTIES\bin\Debug\082 FORM PROPERTIES.exe.config
+C:\Users\tss3\source\repos\082 FORM PROPERTIES\082 FORM PROPERTIES\bin\Debug\082 FORM PROPERTIES.exe
+C:\Users\tss3\source\repos\082 FORM PROPERTIES\082 FORM PROPERTIES\bin\Debug\082 FORM PROPERTIES.pdb
+C:\Users\tss3\source\repos\082 FORM PROPERTIES\082 FORM PROPERTIES\obj\Debug\082 FORM PROPERTIES.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\082 FORM PROPERTIES\082 FORM PROPERTIES\obj\Debug\_082_FORM_PROPERTIES.Form1.resources
+C:\Users\tss3\source\repos\082 FORM PROPERTIES\082 FORM PROPERTIES\obj\Debug\_082_FORM_PROPERTIES.Properties.Resources.resources
+C:\Users\tss3\source\repos\082 FORM PROPERTIES\082 FORM PROPERTIES\obj\Debug\082 FORM PROPERTIES.csproj.GenerateResource.cache
+C:\Users\tss3\source\repos\082 FORM PROPERTIES\082 FORM PROPERTIES\obj\Debug\082 FORM PROPERTIES.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\082 FORM PROPERTIES\082 FORM PROPERTIES\obj\Debug\082 FORM PROPERTIES.exe
+C:\Users\tss3\source\repos\082 FORM PROPERTIES\082 FORM PROPERTIES\obj\Debug\082 FORM PROPERTIES.pdb
+C:\Users\tss3\source\repos\System.Windows.Frame\082 FORM PROPERTIES\082 FORM PROPERTIES\bin\Debug\082 FORM PROPERTIES.exe.config
+C:\Users\tss3\source\repos\System.Windows.Frame\082 FORM PROPERTIES\082 FORM PROPERTIES\bin\Debug\082 FORM PROPERTIES.exe
+C:\Users\tss3\source\repos\System.Windows.Frame\082 FORM PROPERTIES\082 FORM PROPERTIES\bin\Debug\082 FORM PROPERTIES.pdb
+C:\Users\tss3\source\repos\System.Windows.Frame\082 FORM PROPERTIES\082 FORM PROPERTIES\obj\Debug\082 FORM PROPERTIES.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\System.Windows.Frame\082 FORM PROPERTIES\082 FORM PROPERTIES\obj\Debug\_082_FORM_PROPERTIES.Form1.resources
+C:\Users\tss3\source\repos\System.Windows.Frame\082 FORM PROPERTIES\082 FORM PROPERTIES\obj\Debug\_082_FORM_PROPERTIES.Properties.Resources.resources
+C:\Users\tss3\source\repos\System.Windows.Frame\082 FORM PROPERTIES\082 FORM PROPERTIES\obj\Debug\082 FORM PROPERTIES.csproj.GenerateResource.cache
+C:\Users\tss3\source\repos\System.Windows.Frame\082 FORM PROPERTIES\082 FORM PROPERTIES\obj\Debug\082 FORM PROPERTIES.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\System.Windows.Frame\082 FORM PROPERTIES\082 FORM PROPERTIES\obj\Debug\082 FORM PROPERTIES.exe
+C:\Users\tss3\source\repos\System.Windows.Frame\082 FORM PROPERTIES\082 FORM PROPERTIES\obj\Debug\082 FORM PROPERTIES.pdb

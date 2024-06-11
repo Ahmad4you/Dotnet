@@ -1,0 +1,14 @@
+C:\Users\tss3\source\repos\239 OOP abstract class and property\239 OOP abstract class and property\bin\Debug\239 OOP abstract class and property.exe.config
+C:\Users\tss3\source\repos\239 OOP abstract class and property\239 OOP abstract class and property\bin\Debug\239 OOP abstract class and property.exe
+C:\Users\tss3\source\repos\239 OOP abstract class and property\239 OOP abstract class and property\bin\Debug\239 OOP abstract class and property.pdb
+C:\Users\tss3\source\repos\239 OOP abstract class and property\239 OOP abstract class and property\obj\Debug\239 OOP abstract class and property.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\239 OOP abstract class and property\239 OOP abstract class and property\obj\Debug\239 OOP abstract class and property.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\239 OOP abstract class and property\239 OOP abstract class and property\obj\Debug\239 OOP abstract class and property.exe
+C:\Users\tss3\source\repos\239 OOP abstract class and property\239 OOP abstract class and property\obj\Debug\239 OOP abstract class and property.pdb
+C:\Users\tss3\source\repos\OOP\239 OOP abstract class and property\239 OOP abstract class and property\bin\Debug\239 OOP abstract class and property.exe.config
+C:\Users\tss3\source\repos\OOP\239 OOP abstract class and property\239 OOP abstract class and property\bin\Debug\239 OOP abstract class and property.exe
+C:\Users\tss3\source\repos\OOP\239 OOP abstract class and property\239 OOP abstract class and property\bin\Debug\239 OOP abstract class and property.pdb
+C:\Users\tss3\source\repos\OOP\239 OOP abstract class and property\239 OOP abstract class and property\obj\Debug\239 OOP abstract class and property.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\OOP\239 OOP abstract class and property\239 OOP abstract class and property\obj\Debug\239 OOP abstract class and property.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\OOP\239 OOP abstract class and property\239 OOP abstract class and property\obj\Debug\239 OOP abstract class and property.exe
+C:\Users\tss3\source\repos\OOP\239 OOP abstract class and property\239 OOP abstract class and property\obj\Debug\239 OOP abstract class and property.pdb

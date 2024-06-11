@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\Aufgabe KreisVererbung\Aufgabe KreisVererbung\bin\Debug\Aufgabe KreisVererbung.exe.config
+C:\Users\tss3\source\repos\Aufgabe KreisVererbung\Aufgabe KreisVererbung\bin\Debug\Aufgabe KreisVererbung.exe
+C:\Users\tss3\source\repos\Aufgabe KreisVererbung\Aufgabe KreisVererbung\bin\Debug\Aufgabe KreisVererbung.pdb
+C:\Users\tss3\source\repos\Aufgabe KreisVererbung\Aufgabe KreisVererbung\obj\Debug\Aufgabe KreisVererbung.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\Aufgabe KreisVererbung\Aufgabe KreisVererbung\obj\Debug\Aufgabe KreisVererbung.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\Aufgabe KreisVererbung\Aufgabe KreisVererbung\obj\Debug\Aufgabe KreisVererbung.exe
+C:\Users\tss3\source\repos\Aufgabe KreisVererbung\Aufgabe KreisVererbung\obj\Debug\Aufgabe KreisVererbung.pdb

@@ -1,0 +1,7 @@
+C:\Users\tss3\source\repos\214 OOP Calc Two Arrays CALC Class\214 OOP Calc Two Arrays CALC Class\bin\Debug\214 OOP Calc Two Arrays CALC Class.exe.config
+C:\Users\tss3\source\repos\214 OOP Calc Two Arrays CALC Class\214 OOP Calc Two Arrays CALC Class\bin\Debug\214 OOP Calc Two Arrays CALC Class.exe
+C:\Users\tss3\source\repos\214 OOP Calc Two Arrays CALC Class\214 OOP Calc Two Arrays CALC Class\bin\Debug\214 OOP Calc Two Arrays CALC Class.pdb
+C:\Users\tss3\source\repos\214 OOP Calc Two Arrays CALC Class\214 OOP Calc Two Arrays CALC Class\obj\Debug\214 OOP Calc Two Arrays CALC Class.csprojAssemblyReference.cache
+C:\Users\tss3\source\repos\214 OOP Calc Two Arrays CALC Class\214 OOP Calc Two Arrays CALC Class\obj\Debug\214 OOP Calc Two Arrays CALC Class.csproj.CoreCompileInputs.cache
+C:\Users\tss3\source\repos\214 OOP Calc Two Arrays CALC Class\214 OOP Calc Two Arrays CALC Class\obj\Debug\214 OOP Calc Two Arrays CALC Class.exe
+C:\Users\tss3\source\repos\214 OOP Calc Two Arrays CALC Class\214 OOP Calc Two Arrays CALC Class\obj\Debug\214 OOP Calc Two Arrays CALC Class.pdb
